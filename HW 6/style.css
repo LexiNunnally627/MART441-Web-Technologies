@@ -1,0 +1,18 @@
+.table {
+    display: table;
+}
+
+.tableRow {
+    display: table-row;
+ }
+
+ .tableCell {
+    border: 1px solid black;
+    display: table-cell;
+    padding: 3px 10px;
+ }
+
+body {
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;
+        }
