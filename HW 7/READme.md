@@ -1,0 +1,1 @@
+This week was fun and a little bit challenging. I'm still trying to understand what all the text means, but I feel like I'm getting there. This week once I got to a spot where I couldn't spot my mistakes, I then asked AI to find them for me. While I still don't like AI, I appreciate how quickly it can find my mistakes to help me learn. 
