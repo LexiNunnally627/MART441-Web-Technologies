@@ -1,0 +1,35 @@
+.image-container {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+body{
+    background-color: pink;
+    overflow: hidden;
+}
+
+#image {
+    width: 300px;
+    position: relative;
+    z-index: 2;
+}
+
+#caption {
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    background-color: white;
+    padding: 5px;
+    z-index: 3;
+}
+
+#square {
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    width: 320px;
+    height: 320px;
+    border: 5px solid cadetblue;
+    box-sizing: border-box;
+    z-index: 1;
+}
