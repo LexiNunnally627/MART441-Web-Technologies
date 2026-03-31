@@ -1,0 +1,17 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+button {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+#pokemonInfo {
+    max-width: 200px;
+    background-color:brown;
+    color: white;
+}
