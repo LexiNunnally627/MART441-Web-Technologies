@@ -1,0 +1,24 @@
+{
+    "squares": [{
+        "name": "collect 1",
+        "x": 20,
+        "y": 100,
+        "color": "green",
+        "width": 30,
+        "height": 30
+    }, {
+        "name": "collect 2",
+        "x": 250,
+        "y": 250,
+        "color": "green",
+        "width": 30,
+        "height": 30
+    }, {
+        "name": "collect 3",
+        "x": 500,
+        "y": 500,
+        "color": "green",
+        "width": 30,
+        "height": 30
+    }]
+}

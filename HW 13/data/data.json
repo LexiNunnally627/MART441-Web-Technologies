@@ -1,0 +1,38 @@
+{
+    "squares": [{
+        "name": "square 2",
+        "x": 100,
+        "y": 100,
+        "color": "black",
+        "width": 50,
+        "height": 50
+    }, {
+        "name": "square 3",
+        "x": 200,
+        "y": 200,
+        "color": "brown",
+        "width": 30,
+        "height": 50
+    }, {
+        "name": "square 4",
+        "x": 50,
+        "y": 50,
+        "color": "blue",
+        "width": 10,
+        "height": 10
+    }, {
+        "name": "square 5",
+        "x": 300,
+        "y": 300,
+        "color": "red",
+        "width": 100,
+        "height": 100
+    }, {
+        "name": "square 6",
+        "x": 450,
+        "y": 450,
+        "color": "white",
+        "width": 80,
+        "height": 60
+    }]
+}
